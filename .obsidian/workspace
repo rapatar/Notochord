@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Потомки.md",
+            "file": "&Etc/template.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Потомки.md"
+                "file": "&Etc/template.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Потомки.md",
+                "file": "&Etc/template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,8 +130,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Потомки.md",
     "&Etc/template.md",
+    "Потомки.md",
     "&Files/Япет.jpg",
     "&Files/texnikipassportbackgolf.jpg",
     "&Files/shibam.jpg",
