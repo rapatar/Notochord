@@ -8,10 +8,9 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Потомки.md",
-            "mode": "source"
+            "file": "&Files/plan.jpg"
           }
         }
       }
@@ -91,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Потомки.md"
+                "file": "&Files/plan.jpg"
               }
             }
           },
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Потомки.md",
+                "file": "&Files/plan.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,15 +129,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "&Files/plan.jpg",
+    "&Files/birunikredit1.jpg",
     "Потомки.md",
     "&Etc/template.md",
     "Предки.md",
     "Untitled.md",
-    "&Files/birunikredit1.jpg",
     "За Стеной.md",
     "Notochord-Universe/Wiki/Пророчество.md",
     "Notochord-Universe/Wiki/Терраформинг.md",
-    "Notochord-Universe/Wiki/Мифология Уравнения.md",
-    "Bootstrap Studio.md"
+    "Notochord-Universe/Wiki/Мифология Уравнения.md"
   ]
 }
