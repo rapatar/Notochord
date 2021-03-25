@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Потомки.md",
-            "mode": "preview"
+            "file": "_Start here.md",
+            "mode": "source"
           }
         }
       }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Потомки.md"
+                "file": "_Start here.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Потомки.md",
+                "file": "_Start here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +130,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Потомки.md",
     "Сверхсветвой полет.md",
     "&Etc/template.md",
@@ -138,7 +139,6 @@
     "&Files/shibam.jpg",
     "&Files/plan.jpg",
     "&Files/birunikredit1.jpg",
-    "Предки.md",
-    "Untitled.md"
+    "Предки.md"
   ]
 }
