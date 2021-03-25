@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Потомки.md",
-            "mode": "preview"
+            "file": "_Start here.md",
+            "mode": "source"
           }
         }
       }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Потомки.md"
+                "file": "_Start here.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Потомки.md",
+                "file": "_Start here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,8 +129,8 @@
     "width": 326
   },
   "lastOpenFiles": [
-    "Потомки.md",
     "_Start here.md",
+    "Потомки.md",
     "Сверхсветвой полет.md",
     "^1.md",
     "Untitled.md",
