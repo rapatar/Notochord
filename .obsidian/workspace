@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Start here.md",
+            "file": "Сверхсветвой полет.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Start here.md"
+                "file": "Сверхсветвой полет.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Start here.md",
+                "file": "Сверхсветвой полет.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,12 +129,12 @@
     "width": 326
   },
   "lastOpenFiles": [
-    "_Start here.md",
-    "Потомки.md",
     "Сверхсветвой полет.md",
+    "Потомки.md",
+    "&Etc/template.md",
+    "_Start here.md",
     "^1.md",
     "Untitled.md",
-    "&Etc/template.md",
     "&Files/Япет.jpg",
     "&Files/texnikipassportbackgolf.jpg",
     "&Files/shibam.jpg",
