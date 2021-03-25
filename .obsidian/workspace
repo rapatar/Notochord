@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Потомки.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -122,12 +122,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 326,
-    "collapsed": true
+    "width": 326
   },
   "lastOpenFiles": [
     "Потомки.md",
