@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Потомки.md",
+            "file": "_Start here.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Потомки.md"
+                "file": "_Start here.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Потомки.md",
+                "file": "_Start here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,7 @@
     "width": 326
   },
   "lastOpenFiles": [
+    "_Start here.md",
     "Потомки.md",
     "^1.md",
     "Untitled.md",
@@ -137,7 +138,6 @@
     "&Files/Япет.jpg",
     "&Files/texnikipassportbackgolf.jpg",
     "&Files/shibam.jpg",
-    "&Files/plan.jpg",
-    "&Files/birunikredit1.jpg"
+    "&Files/plan.jpg"
   ]
 }
