@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Потомки.md",
+            "file": "^1.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Потомки.md"
+                "file": "^1.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Потомки.md",
+                "file": "^1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,7 @@
     "width": 326
   },
   "lastOpenFiles": [
+    "^1.md",
     "Потомки.md",
     "Untitled.md",
     "Сверхсветвой полет.md",
@@ -137,7 +138,6 @@
     "&Files/texnikipassportbackgolf.jpg",
     "&Files/shibam.jpg",
     "&Files/plan.jpg",
-    "&Files/birunikredit1.jpg",
-    "Предки.md"
+    "&Files/birunikredit1.jpg"
   ]
 }
