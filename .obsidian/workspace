@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "&Etc/template.md",
+            "file": "Хорда.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "&Etc/template.md"
+                "file": "Хорда.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "&Etc/template.md",
+                "file": "Хорда.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,11 +129,11 @@
     "width": 326
   },
   "lastOpenFiles": [
-    "&Etc/template.md",
     "Хорда.md",
-    "Потомки.md",
-    "_Start here.md",
     "Сверхсветвой полет.md",
+    "_Start here.md",
+    "Потомки.md",
+    "&Etc/template.md",
     "^1.md",
     "Untitled.md",
     "&Files/Япет.jpg",
