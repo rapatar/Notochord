@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Сверхсветвой полет.md",
+            "file": "_Start here.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сверхсветвой полет.md"
+                "file": "_Start here.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сверхсветвой полет.md",
+                "file": "_Start here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,10 +129,10 @@
     "width": 326
   },
   "lastOpenFiles": [
-    "Сверхсветвой полет.md",
-    "Потомки.md",
-    "&Etc/template.md",
     "_Start here.md",
+    "Потомки.md",
+    "Сверхсветвой полет.md",
+    "&Etc/template.md",
     "^1.md",
     "Untitled.md",
     "&Files/Япет.jpg",
