@@ -1,6 +1,6 @@
 ---
 meta:
-tags: #tag
+tags: [tag]
 source:
 aliases: [alias1, alias2]
 ---
