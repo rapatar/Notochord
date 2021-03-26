@@ -1,5 +1,5 @@
 ---
-###### meta:
+meta:
 tags: #tag
 links:
 source:
