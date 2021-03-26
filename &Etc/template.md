@@ -1,6 +1,4 @@
 ---
-meta:
-
 source:
 aliases: [alias1, alias2]
 ---
