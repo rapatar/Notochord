@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Сверхсветвой полет.md",
+            "file": "&Etc/template.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сверхсветвой полет.md"
+                "file": "&Etc/template.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Сверхсветвой полет.md",
+                "file": "&Etc/template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,10 +129,10 @@
     "width": 326
   },
   "lastOpenFiles": [
+    "&Etc/template.md",
     "Сверхсветвой полет.md",
     "Потомки.md",
     "_Start here.md",
-    "&Etc/template.md",
     "Хорда.md",
     "^1.md",
     "Untitled.md",
