@@ -1,6 +1,6 @@
 ---
 meta:
-tags: [tag]
+
 source:
 aliases: [alias1, alias2]
 ---
@@ -8,4 +8,5 @@ aliases: [alias1, alias2]
 
 
 ---
+tags: 
 backlinks: 
