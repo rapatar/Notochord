@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Потомки.md",
+            "file": "_Start here.md",
             "mode": "preview"
           }
         }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 449
+    "width": 216
   },
   "right": {
     "id": "27aad74cdd7ebb59",
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Потомки.md"
+                "file": "_Start here.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Потомки.md",
+                "file": "_Start here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,10 +129,10 @@
     "width": 275
   },
   "lastOpenFiles": [
+    "_Start here.md",
     "Потомки.md",
     "Сверхсветвой полет.md",
     "Хорда.md",
-    "_Start here.md",
     "&Etc/template.md",
     "^1.md",
     "Untitled.md",
