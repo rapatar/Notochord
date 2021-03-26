@@ -3,4 +3,4 @@
 - `#evergreen` - пример "вечнозеленых" заметок
 - `#zettelkasten` - пример атомарных заметок
 - `#chronicle` - пример хронологической заметки
-	- `#chronicle/`
+	- `#chronicle/Rho1`
