@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Start here.md",
-            "mode": "source"
+            "file": "Хорда.md",
+            "mode": "preview"
           }
         }
       }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Start here.md"
+                "file": "Хорда.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Start here.md",
+                "file": "Хорда.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,10 +129,10 @@
     "width": 326
   },
   "lastOpenFiles": [
-    "_Start here.md",
-    "Потомки.md",
-    "Сверхсветвой полет.md",
     "Хорда.md",
+    "Сверхсветвой полет.md",
+    "Потомки.md",
+    "_Start here.md",
     "&Etc/template.md",
     "^1.md",
     "Untitled.md",
