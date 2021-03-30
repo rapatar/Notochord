@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Стена.md",
-            "mode": "preview"
+            "file": "Мозг.md",
+            "mode": "source"
           }
         }
       }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Стена.md"
+                "file": "Мозг.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Стена.md",
+                "file": "Мозг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
     "width": 275
   },
   "lastOpenFiles": [
+    "Коннектом 1.md",
+    "Коннектом.md",
     "Untitled.md",
     "&Etc/template.md",
     "Коллективный интеллект.md",
     "_Start here.md",
-    "Коннектом.md",
     "Потомки.md",
     "Сверхсветвой полет.md",
     "Хорда.md",
-    "^1.md",
-    "&Files/Япет.jpg"
+    "^1.md"
   ]
 }
