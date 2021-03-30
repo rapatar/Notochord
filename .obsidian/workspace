@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#evergreen",
+                "query": "tag:#concept",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,11 +131,11 @@
   },
   "lastOpenFiles": [
     "Коннектом.md",
+    "Хорда.md",
+    "Сверхсветвой полет.md",
     "Потомки.md",
     "Untitled.md",
     "_Start here.md",
-    "Сверхсветвой полет.md",
-    "Хорда.md",
     "&Etc/template.md",
     "^1.md",
     "&Files/Япет.jpg",
