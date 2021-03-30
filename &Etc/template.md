@@ -3,7 +3,6 @@ source:
 aliases: [alias1, alias2]
 ---
 # {{title}}
-
 ---
 note to replace
 
