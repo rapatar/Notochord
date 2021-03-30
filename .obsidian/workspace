@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "&Etc/template.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "&Etc/template.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "&Etc/template.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,7 @@
     "width": 275
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "&Etc/template.md",
     "Коллективный интеллект.md",
     "_Start here.md",
@@ -136,7 +137,6 @@
     "Потомки.md",
     "Сверхсветвой полет.md",
     "Хорда.md",
-    "Untitled.md",
     "^1.md",
     "&Files/Япет.jpg"
   ]
