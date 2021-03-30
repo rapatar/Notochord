@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "&Etc/template.md",
+            "file": "Коллективный интеллект.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "&Etc/template.md"
+                "file": "Коллективный интеллект.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "&Etc/template.md",
+                "file": "Коллективный интеллект.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,10 +129,10 @@
     "width": 275
   },
   "lastOpenFiles": [
-    "&Etc/template.md",
     "Коллективный интеллект.md",
-    "Хорда.md",
     "Коннектом.md",
+    "&Etc/template.md",
+    "Хорда.md",
     "Сверхсветвой полет.md",
     "Потомки.md",
     "_Start here.md",

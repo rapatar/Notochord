@@ -1,5 +1,4 @@
 ---
-source:
 aliases: [alias1, alias2]
 ---
 # {{title}}
@@ -12,3 +11,8 @@ more info to replace
 ---
 tags: 
 backlinks: 
+
+---
+###### links:
+	-
+	-
