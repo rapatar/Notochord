@@ -4,8 +4,11 @@ aliases: [alias1, alias2]
 ---
 # {{title}}
 
+---
+note to replace
 
-text to replace
+---
+more info to replace
 
 ---
 tags: 
