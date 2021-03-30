@@ -12,7 +12,3 @@ more info to replace
 tags: 
 backlinks: 
 
----
-###### links:
-- 
-
