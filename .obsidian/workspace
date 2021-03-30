@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Коннектом.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Коннектом.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Коннектом.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,11 +129,11 @@
     "width": 275
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Коннектом.md",
     "Хорда.md",
     "Сверхсветвой полет.md",
     "Потомки.md",
-    "Untitled.md",
     "_Start here.md",
     "&Etc/template.md",
     "^1.md",
