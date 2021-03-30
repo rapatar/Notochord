@@ -6,11 +6,22 @@
       {
         "id": "16883c754cc55b11",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Человек.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8341b90768d8b060",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Сверхсветвой полет.md",
             "mode": "source"
           }
         }
@@ -91,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Человек.md"
+                "file": "Сверхсветвой полет.md"
               }
             }
           },
@@ -112,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Человек.md",
+                "file": "Сверхсветвой полет.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +140,15 @@
     "width": 275
   },
   "lastOpenFiles": [
+    "Сверхсветвой полет.md",
+    "Человек.md",
     "Untitled.md",
     "Потомки.md",
     "Префронтальная кора головного мозга.md",
-    "Сверхсветвой полет.md",
     "Стена.md",
     "Хорда.md",
     "Коннектом.md",
     "Коллективный интеллект.md",
-    "&Etc/template.md",
-    "_Start here.md"
+    "&Etc/template.md"
   ]
 }
