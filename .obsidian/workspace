@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Коллективный интеллект.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Коллективный интеллект.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Коллективный интеллект.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
     "width": 275
   },
   "lastOpenFiles": [
-    "Untitled.md",
+    "Коллективный интеллект.md",
     "Коннектом.md",
+    "Untitled.md",
     "Хорда.md",
     "Сверхсветвой полет.md",
     "Потомки.md",
     "_Start here.md",
     "&Etc/template.md",
     "^1.md",
-    "&Files/Япет.jpg",
-    "&Files/texnikipassportbackgolf.jpg"
+    "&Files/Япет.jpg"
   ]
 }
