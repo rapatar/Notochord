@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Start here.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Start here.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Start here.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,13 +129,13 @@
     "width": 275
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "_Start here.md",
     "Потомки.md",
     "Сверхсветвой полет.md",
     "Хорда.md",
     "&Etc/template.md",
     "^1.md",
-    "Untitled.md",
     "&Files/Япет.jpg",
     "&Files/texnikipassportbackgolf.jpg",
     "&Files/shibam.jpg"
