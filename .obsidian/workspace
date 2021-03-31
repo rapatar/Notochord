@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "10d18e1a78498918",
+        "id": "64703ab211ec40c8",
         "type": "leaf",
         "active": true,
         "state": {
@@ -92,8 +92,17 @@
               "type": "ob_comments",
               "state": {}
             }
+          },
+          {
+            "id": "10d18e1a78498918",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
