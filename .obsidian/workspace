@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Стена.md",
+            "file": "Коллективный интеллект.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#артефакт/wall",
+                "query": "tag:#character/CI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +90,7 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
+    "Коллективный интеллект.md",
     "Стена.md",
     "Сверхсветвой полет.md",
     "Префронтальная кора головного мозга.md",
@@ -97,7 +98,6 @@
     "_Start here.md",
     "Потомки.md",
     "Человек.md",
-    "Коллективный интеллект.md",
     "Untitled.md",
     "Хорда.md"
   ]
