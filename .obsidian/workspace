@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Коннектом.md",
+            "file": "Человек.md",
             "mode": "source"
           }
         }
@@ -91,7 +91,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Коннектом.md"
+                "file": "Человек.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Коннектом.md",
+                "file": "Человек.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,9 +129,9 @@
     "width": 275
   },
   "lastOpenFiles": [
+    "Человек.md",
     "Коннектом.md",
     "Коллективный интеллект.md",
-    "Человек.md",
     "Потомки.md",
     "Сверхсветвой полет.md",
     "Untitled.md",
