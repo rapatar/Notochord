@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Start here.md",
+            "file": "Хорда.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#zettelkasten",
+                "query": "tag:#chronicle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,15 +90,15 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
-    "_Start here.md",
-    "Человек.md",
     "Хорда.md",
     "Префронтальная кора головного мозга.md",
+    "Потомки.md",
+    "_Start here.md",
+    "Человек.md",
     "Коннектом.md",
     "Коллективный интеллект.md",
     "Стена.md",
     "Сверхсветвой полет.md",
-    "Потомки.md",
     "Untitled.md"
   ]
 }
