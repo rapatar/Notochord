@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#артефакт/chord",
+                "query": "tag:#артефакт/хорда",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
