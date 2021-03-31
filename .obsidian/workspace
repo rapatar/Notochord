@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "&Etc/template.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -109,6 +112,7 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
+    "&Etc/template.md",
     "Хорда.md",
     "Сверхсветвой полет.md",
     "Префронтальная кора головного мозга.md",
@@ -117,7 +121,6 @@
     "Человек.md",
     "Коннектом.md",
     "Коллективный интеллект.md",
-    "Стена.md",
-    "Untitled.md"
+    "Стена.md"
   ]
 }
