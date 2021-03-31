@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Хорда.md",
+            "file": "Сверхсветвой полет.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#chronicle",
+                "query": "tag:#evergreen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +90,7 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
+    "Сверхсветвой полет.md",
     "Хорда.md",
     "Префронтальная кора головного мозга.md",
     "Потомки.md",
@@ -98,7 +99,6 @@
     "Коннектом.md",
     "Коллективный интеллект.md",
     "Стена.md",
-    "Сверхсветвой полет.md",
     "Untitled.md"
   ]
 }
