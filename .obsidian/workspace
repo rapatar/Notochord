@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5d5d01460c45aaee",
+        "id": "10d18e1a78498918",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Хорда.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
