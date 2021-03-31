@@ -73,55 +73,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5036334991455
   },
   "right": {
     "id": "27aad74cdd7ebb59",
     "type": "split",
     "children": [
       {
-        "id": "e56d9e7f2f1d4e1c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d573c2d789134da3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "677463a9ba19c729",
         "type": "tabs",
         "children": [
-          {
-            "id": "bc378a54861a66b9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Коннектом.md"
-              }
-            }
-          },
-          {
-            "id": "183c82b7c631af29",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Коннектом.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
           {
             "id": "19adccc289e6d7ef",
             "type": "leaf",
@@ -133,12 +94,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 4653
+    "width": 225.9852752685547
   },
   "lastOpenFiles": [
     "Коннектом.md",
