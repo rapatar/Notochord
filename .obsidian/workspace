@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "&Etc/template.md",
+            "file": "_Start here.md",
             "mode": "source"
           }
         }
@@ -88,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Start here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "_Start here.md"
+              }
+            }
+          },
+          {
+            "id": "ecff8408110827c4",
+            "type": "leaf",
+            "state": {
+              "type": "ob_comments",
               "state": {}
             }
           }
@@ -111,14 +122,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ecff8408110827c4",
-            "type": "leaf",
-            "state": {
-              "type": "ob_comments",
-              "state": {}
-            }
-          },
-          {
             "id": "10d18e1a78498918",
             "type": "leaf",
             "state": {
@@ -126,21 +129,20 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
+    "_Start here.md",
+    "Человек.md",
     "&Etc/template.md",
     "Хорда.md",
     "Сверхсветвой полет.md",
     "Префронтальная кора головного мозга.md",
     "Потомки.md",
-    "_Start here.md",
-    "Человек.md",
     "Коннектом.md",
     "Коллективный интеллект.md",
     "Стена.md"
