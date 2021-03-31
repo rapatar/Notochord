@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Человек.md",
+            "file": "Потомки.md",
             "mode": "preview"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Человек.md",
+                "file": "Потомки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Человек.md"
+                "file": "Потомки.md"
               }
             }
           },
@@ -136,6 +136,7 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
+    "Потомки.md",
     "Человек.md",
     "Префронтальная кора головного мозга.md",
     "_Start here.md",
@@ -144,7 +145,6 @@
     "Сверхсветвой полет.md",
     "Коллективный интеллект.md",
     "Коннектом.md",
-    "Потомки.md",
     "&Etc/template.md"
   ]
 }
