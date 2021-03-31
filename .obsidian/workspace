@@ -6,22 +6,11 @@
       {
         "id": "5d5d01460c45aaee",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Коннектом.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "528c1695802d2e20",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Коннектом.md",
+            "file": "Стена.md",
             "mode": "source"
           }
         }
@@ -51,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#артефакт/mussel",
+                "query": "tag:#артефакт/wall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,11 +90,11 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
-    "Коннектом.md",
-    "_Start here.md",
     "Стена.md",
     "Сверхсветвой полет.md",
     "Префронтальная кора головного мозга.md",
+    "Коннектом.md",
+    "_Start here.md",
     "Потомки.md",
     "Человек.md",
     "Коллективный интеллект.md",
