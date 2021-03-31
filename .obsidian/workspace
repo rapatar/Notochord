@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Коннектом.md",
-            "mode": "source"
+            "file": "Человек.md",
+            "mode": "preview"
           }
         }
       }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Коннектом.md",
+                "file": "Человек.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Коннектом.md"
+                "file": "Человек.md"
               }
             }
           },
@@ -136,15 +136,15 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
-    "Коннектом.md",
-    "_Start here.md",
     "Человек.md",
-    "&Etc/template.md",
     "Хорда.md",
+    "Стена.md",
     "Сверхсветвой полет.md",
     "Префронтальная кора головного мозга.md",
-    "Потомки.md",
     "Коллективный интеллект.md",
-    "Стена.md"
+    "Коннектом.md",
+    "Потомки.md",
+    "_Start here.md",
+    "&Etc/template.md"
   ]
 }
