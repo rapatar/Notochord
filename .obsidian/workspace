@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Коллективный интеллект.md",
+            "file": "Коннектом.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#character/CI",
+                "query": "tag:#character",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +90,12 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
+    "Коннектом.md",
     "Коллективный интеллект.md",
+    "_Start here.md",
     "Стена.md",
     "Сверхсветвой полет.md",
     "Префронтальная кора головного мозга.md",
-    "Коннектом.md",
-    "_Start here.md",
     "Потомки.md",
     "Человек.md",
     "Untitled.md",
