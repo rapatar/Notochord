@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Фатальная семейная бессонница.md",
+            "file": "Детская хворь.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Фатальная семейная бессонница.md",
+                "file": "Детская хворь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Фатальная семейная бессонница.md"
+                "file": "Детская хворь.md"
               }
             }
           },
