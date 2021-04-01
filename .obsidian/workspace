@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Детская хворь.md",
+            "file": "Семя.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Детская хворь.md",
+                "file": "Семя.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Детская хворь.md"
+                "file": "Семя.md"
               }
             }
           },
@@ -136,15 +136,15 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
-    "Фатальная семейная бессонница.md",
     "Семя.md",
+    "Стена.md",
+    "Детская хворь.md",
+    "Фатальная семейная бессонница.md",
     "ФСБ.md",
     "Хорда.md",
     "Потомки.md",
-    "Стена.md",
     "&Etc/template.md",
     "_Индекс.md",
-    "Префронтальная кора головного мозга.md",
-    "Коннектом.md"
+    "Префронтальная кора головного мозга.md"
   ]
 }
