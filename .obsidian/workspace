@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Префронтальная кора головного мозга.md",
+            "file": "Стена.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Префронтальная кора головного мозга.md",
+                "file": "Стена.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Префронтальная кора головного мозга.md"
+                "file": "Стена.md"
               }
             }
           },
@@ -136,15 +136,15 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
+    "Стена.md",
+    "&Etc/template.md",
+    "_Индекс.md",
     "Префронтальная кора головного мозга.md",
     "Хорда.md",
     "Коннектом.md",
     "Человек.md",
     "Коллективный интеллект.md",
-    "Стена.md",
     "Потомки.md",
-    "Вектор Негэнтропии.md",
-    "_Start here.md",
-    "Сверхсветвой полет.md"
+    "Вектор Негэнтропии.md"
   ]
 }
