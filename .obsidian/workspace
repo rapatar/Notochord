@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Потомки.md",
-            "mode": "preview"
+            "file": "Вектор Негэнтропии.md",
+            "mode": "source"
           }
         }
       }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Потомки.md",
+                "file": "Вектор Негэнтропии.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Потомки.md"
+                "file": "Вектор Негэнтропии.md"
               }
             }
           },
@@ -136,6 +136,7 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
+    "Вектор Негэнтропии.md",
     "Потомки.md",
     "Человек.md",
     "Хорда.md",
@@ -144,7 +145,6 @@
     "Префронтальная кора головного мозга.md",
     "_Start here.md",
     "Стена.md",
-    "Сверхсветвой полет.md",
-    "&Etc/template.md"
+    "Сверхсветвой полет.md"
   ]
 }
