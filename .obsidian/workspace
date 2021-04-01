@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Стена.md",
+            "file": "Потомки.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Стена.md",
+                "file": "Потомки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Стена.md"
+                "file": "Потомки.md"
               }
             }
           },
@@ -136,6 +136,7 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
+    "Потомки.md",
     "Стена.md",
     "&Etc/template.md",
     "_Индекс.md",
@@ -144,7 +145,6 @@
     "Коннектом.md",
     "Человек.md",
     "Коллективный интеллект.md",
-    "Потомки.md",
     "Вектор Негэнтропии.md"
   ]
 }
