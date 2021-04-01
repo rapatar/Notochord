@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Хорда.md",
+            "file": "Семя.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Хорда.md",
+                "file": "Семя.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Хорда.md"
+                "file": "Семя.md"
               }
             }
           },
@@ -136,6 +136,7 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
+    "Семя.md",
     "Хорда.md",
     "Потомки.md",
     "Стена.md",
@@ -144,7 +145,6 @@
     "Префронтальная кора головного мозга.md",
     "Коннектом.md",
     "Человек.md",
-    "Коллективный интеллект.md",
-    "Вектор Негэнтропии.md"
+    "Коллективный интеллект.md"
   ]
 }
