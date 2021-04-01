@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Вектор Негэнтропии.md",
+            "file": "Коллективный интеллект.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вектор Негэнтропии.md",
+                "file": "Коллективный интеллект.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вектор Негэнтропии.md"
+                "file": "Коллективный интеллект.md"
               }
             }
           },
@@ -136,11 +136,11 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
+    "Коллективный интеллект.md",
     "Вектор Негэнтропии.md",
     "Потомки.md",
     "Человек.md",
     "Хорда.md",
-    "Коллективный интеллект.md",
     "Коннектом.md",
     "Префронтальная кора головного мозга.md",
     "_Start here.md",
