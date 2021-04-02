@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Шибам.md",
+            "file": "00.Уроборос.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шибам.md",
+                "file": "00.Уроборос.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шибам.md"
+                "file": "00.Уроборос.md"
               }
             }
           },
@@ -136,6 +136,7 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
+    "Уроборос.md",
     "Шибам.md",
     "Человек.md",
     "Сверхсветвой полет.md",
@@ -144,7 +145,6 @@
     "00.Хорда.md",
     "00.Стена.md",
     "00.Семя.md",
-    "00.Потомки.md",
-    "00.Коллективный интеллект.md"
+    "00.Потомки.md"
   ]
 }
