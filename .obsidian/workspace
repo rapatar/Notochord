@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Индекс.md",
+            "file": "Ресурсы и экономика.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Индекс.md",
+                "file": "Ресурсы и экономика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Индекс.md"
+                "file": "Ресурсы и экономика.md"
               }
             }
           },
@@ -136,6 +136,7 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
+    "Ресурсы и экономика.md",
     "_Индекс.md",
     "Untitled.md",
     "Уроборос.md",
@@ -144,7 +145,6 @@
     "Сверхсветвой полет.md",
     "Префронтальная кора головного мозга.md",
     "Коннектом.md",
-    "00.Хорда.md",
-    "00.Стена.md"
+    "00.Хорда.md"
   ]
 }
