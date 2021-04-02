@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Вектор Негэнтропии.md",
+            "file": "Стена.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вектор Негэнтропии.md",
+                "file": "Стена.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вектор Негэнтропии.md"
+                "file": "Стена.md"
               }
             }
           },
@@ -136,12 +136,12 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
+    "Стена.md",
+    "Коллективный интеллект.md",
     "Вектор Негэнтропии.md",
     "_Индекс.md",
     "Детская хворь.md",
-    "Коллективный интеллект.md",
     "Семя.md",
-    "Стена.md",
     "Фатальная семейная бессонница.md",
     "ФСБ.md",
     "Хорда.md",
