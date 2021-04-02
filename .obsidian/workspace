@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Шибам.md",
+            "file": "00.Градуврат.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шибам.md",
+                "file": "00.Градуврат.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шибам.md"
+                "file": "00.Градуврат.md"
               }
             }
           },
@@ -136,6 +136,8 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
+    "00.Градуврат.md",
+    "00.Вектор Негэнтропии.md",
     "Шибам.md",
     "&Files/Pasted image 20210402171214.png",
     "Untitled.md",
@@ -143,8 +145,6 @@
     "Человек.md",
     "Сверхсветвой полет.md",
     "Префронтальная кора головного мозга.md",
-    "Коннектом.md",
-    "00.Хорда.md",
-    "00.Семя.md"
+    "Коннектом.md"
   ]
 }
