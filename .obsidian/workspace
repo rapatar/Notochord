@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00.Уроборос.md",
-            "mode": "preview"
+            "file": "Ресурсы и экономика.md",
+            "mode": "source"
           }
         }
       }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00.Уроборос.md",
+                "file": "Ресурсы и экономика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Уроборос.md"
+                "file": "Ресурсы и экономика.md"
               }
             }
           },
@@ -136,6 +136,7 @@
     "width": 225.9852752685547
   },
   "lastOpenFiles": [
+    "Untitled.md",
     "Уроборос.md",
     "Шибам.md",
     "Человек.md",
@@ -144,7 +145,6 @@
     "Коннектом.md",
     "00.Хорда.md",
     "00.Стена.md",
-    "00.Семя.md",
-    "00.Потомки.md"
+    "00.Семя.md"
   ]
 }
