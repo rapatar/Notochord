@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Стена.md",
+            "file": "00.Стена.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Стена.md",
+                "file": "00.Стена.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Стена.md"
+                "file": "00.Стена.md"
               }
             }
           },
