@@ -1,15 +1,14 @@
 ---
-layout: default
-title: rapatar, Хорда
+layout: storydefault
+title: Хорда
 ---
-<img  style="float: right;" src="https://i.imgur.com/LhnpI0Z.png" alt="rapatar">
-<div class="blurb">
-	<br>
-	<br>
-	<br>
-	<h1>Привет, я rapatar.</h1>
-	<br>
-	<br>
-	<br>
-	<p>Этот сайт еще не работает, чуть подробнее написано <a href="https://rapatar.eu.org/about">тут</a>.</p>
-</div><!-- /.blurb -->
+
+```
+<h1>{{ page.title }}</h1>
+<ul class="posts">
+      <di
+    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+{% endfor %}
+
+</ul>
+```
