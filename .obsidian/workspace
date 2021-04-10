@@ -6,11 +6,10 @@
       {
         "id": "64703ab211ec40c8",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ресурсы и экономика.md",
+            "file": "00.Бинсталк.md",
             "mode": "source"
           }
         }
@@ -88,10 +87,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ресурсы и экономика.md",
+                "file": "00.Бинсталк.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ресурсы и экономика.md"
+                "file": "00.Бинсталк.md"
               }
             }
           },
@@ -135,7 +136,9 @@
     "direction": "horizontal",
     "width": 225.9852752685547
   },
+  "active": "64703ab211ec40c8",
   "lastOpenFiles": [
+    "00.Бинсталк.md",
     "Ресурсы и экономика.md",
     "Бинсталк.md",
     "_Индекс.md",
@@ -144,7 +147,6 @@
     "Шибам.md",
     "Человек.md",
     "Сверхсветвой полет.md",
-    "Префронтальная кора головного мозга.md",
-    "Коннектом.md"
+    "Префронтальная кора головного мозга.md"
   ]
 }
