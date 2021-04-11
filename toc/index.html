@@ -1,12 +1,10 @@
 ---
 layout: default
-title: Содержание. Хорда
 ---
-
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{/notochord/post.url}}">{{ post.title }}</a>
+      <a href="https://rapatar.eu.org/notochord/{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
